@@ -16,13 +16,7 @@
     padding-bottom: 1px;
 }
 
-#section-one {
-    display: flex;
-    flex-wrap: nowrap;
-    height: 50%;
-}
-
-#section-two {
+#img-gallery {
     display: flex;
     flex-wrap: nowrap;
     height: 50%;
@@ -100,22 +94,14 @@ blockquote {
     background-color: black;
 }
 
-#img-one {
+#img-40 {
     width: 40%;
 }
 
-#img-two {
+#img-30 {
     width: 30%;
 }
 
-#img-three {
-    width: 30%;
-}
-
-#img-four {
+#img-60 {
     width: 60%;
-}
-
-#img-five {
-    width: 40%;
 }
